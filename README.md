@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irine5845
-- 👀 I’m interested in web creation 
-- 🌱 I’m currently learning at mount Kenya university 
+- 👀 I’m interested in software development 
+- 🌱 I love and enjoy codding
 - 📫 How to reach me @Irine5845@gmail.com
 
 <!---
