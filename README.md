@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @irine5845
+- 👋 Hi, I’m irine
 - 👀 I’m a junior software developer 
 - 🌱 I love and enjoy coding
 - 📫 How to reach me @Irine5845@gmail.com
